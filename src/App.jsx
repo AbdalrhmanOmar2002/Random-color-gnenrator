@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import GenerateColor from "./components/GenerateColor";
-import InputColor from "react-input-color";
 
 function App() {
   const [first, setFirst] = useState(null);
