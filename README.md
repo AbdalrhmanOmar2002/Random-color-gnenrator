@@ -5,7 +5,7 @@ This is a web app that generates random color palettes for use in design project
 To use this app, simply visit the deployed site at https://random-color-generator.com. There are no additional installation steps required.
 
 ## Usage
-To generate a new color palette, click the "Generate" button. To copy a color code, click on the color square. To copy the entire palette, press the "C" key on your keyboard.
+To generate a new color palette, click the "Generate" button. To copy a color code, click on the color square. To copy the entire palette, press the "C" key on your keyboard. add this api not wroking now
 
 ### Contributing
 Contributions are welcome! To contribute, fork this repository and submit a pull request with your changes.
